@@ -29,7 +29,7 @@ export default function Home() {
         md:w-6/12">
           <div className="text-center md:text-left">
             <h2 className="text-4xl font-bold">
-              Get <sapn className="text-softViolet">insights</sapn> that help
+              Get <strong className="text-softViolet">insights</strong> that help
               your business gorw.
             </h2>
 
@@ -39,24 +39,24 @@ export default function Home() {
             </p>
           </div>
           <div className="flex flex-col md:flex-row mt-4 md:mt-0">
-            <span className="text-center md:text-left mt-8 md:mt-0 md:w-4/12">
+            <div className="text-center md:text-left mt-8 md:mt-0 md:w-4/12">
               <h4 className="text-2xl font-bold mb-1">10k+</h4>
               <p className="text-statWhit uppercase text-xs font-lexend">
                 companies
               </p>
-            </span>
-            <span className="text-center md:text-left mt-8 md:mt-0 md:w-4/12">
+            </div>
+            <div className="text-center md:text-left mt-8 md:mt-0 md:w-4/12">
               <h4 className="text-2xl font-bold mb-1">314</h4>
               <p className="text-statWhit uppercase text-xs font-lexend">
                 templates
               </p>
-            </span>
-            <span className="text-center md:text-left mt-8 md:mt-0 md:w-4/12">
+            </div>
+            <div className="text-center md:text-left mt-8 md:mt-0 md:w-4/12">
               <h4 className="text-2xl font-bold mb-1">12M+</h4>
               <p className="text-statWhit uppercase text-xs font-lexend">
                 queries
               </p>
-            </span>
+            </div>
           </div>
         </div>
       </div>
