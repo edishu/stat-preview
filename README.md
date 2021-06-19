@@ -11,5 +11,5 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ![](./mobile-shot.jpg)
 
 ### Links
-- [Live site](https://stat-preview-8dnd23bnz-edishu.vercel.app/)
+- [Live site](https://stat-preview-seven.vercel.app/)
 - [Solution](https://www.frontendmentor.io/solutions/stat-preview-tailwindcss--W0U7caIz)
